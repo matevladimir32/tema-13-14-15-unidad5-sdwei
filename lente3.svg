@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="195" x2="405" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f44" offset="0"/>
+   <stop stop-color="#59be4e" offset=".5"/>
+   <stop stop-color="#457eff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="195" x2="405" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c5c5c5" offset="0"/>
+   <stop stop-color="#e3e3e3" offset=".5"/>
+   <stop stop-color="#c5c5c5" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="matrix(1.0909 0 0 1.0909 -27.273 -27.273)" d="m520 300a220 220 0 1 1 -440 0 220 220 0 1 1 440 0z" fill="#282828" fill-rule="evenodd"/>
+ <path transform="matrix(1.0526 0 0 1 -5.2632 0)" d="m480 300a190 200 0 1 1 -380 0 190 200 0 1 1 380 0z" fill="#727272"/>
+ <path transform="matrix(.94118 0 0 1 27.059 0)" d="m460 300a170 160 0 1 1 -340 0 170 160 0 1 1 340 0z" fill="#a3a3a3" stroke="#454545" stroke-width="5.1539"/>
+ <path transform="translate(0,-20)" d="m400 320a100 100 0 1 1 -200 0 100 100 0 1 1 200 0z" fill="url(#b)" stroke="url(#a)" stroke-width="10"/>
+ <path transform="matrix(.23077 0 0 .23077 250.77 244.62)" d="m560 370a130 130 0 1 1 -260 0 130 130 0 1 1 260 0z" fill="#fff" opacity=".3571"/>
+ <text transform="matrix(.64264 -.71168 .77401 .69892 0 -452.36)" x="-417.71219" y="915.16602" font-family="Sans" font-size="27.224" letter-spacing="0" word-spacing="0">
+  <tspan x="-417.71219" y="915.16602" fill="#fff">50</tspan>
+ </text>
+ <text transform="matrix(.44086 -.89758 .89758 .44086 0 -452.36)" x="-551.82458" y="828.89966" font-family="Sans" font-size="40" letter-spacing="0" word-spacing="0">
+  <tspan x="-551.82458" y="828.89966" fill="#fff" font-size="27">1:1.6</tspan>
+ </text>
+ <path transform="matrix(.11538 0 0 .11538 205.38 202.31)" d="m560 370a130 130 0 1 1 -260 0 130 130 0 1 1 260 0z" fill="#fff" opacity=".3571"/>
+ <path transform="matrix(.11538 0 0 .11538 205.38 252.31)" d="m560 370a130 130 0 1 1 -260 0 130 130 0 1 1 260 0z" fill="#fff" opacity=".3571"/>
+ <path transform="matrix(.11538 0 0 .11538 245.38 222.31)" d="m560 370a130 130 0 1 1 -260 0 130 130 0 1 1 260 0z" fill="#fff" opacity=".3571"/>
+ <text transform="matrix(.58278 -.76148 .82816 .63382 0 -452.36)" x="-458.84024" y="882.90802" font-family="Sans" font-size="27.224" letter-spacing="0" word-spacing="0">
+  <tspan x="-458.84024" y="882.90802" fill="#fff">mm</tspan>
+ </text>
+</svg>
